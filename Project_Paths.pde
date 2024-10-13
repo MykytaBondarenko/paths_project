@@ -1,4 +1,4 @@
-// When referring to 'the article' I mean "The Truck Dipatching Problem" by G.B.Dantzig and J.H.Ramser 1959 (https://www.jstor.org/stable/2627477?seq=4) //<>//
+// When referring to 'the article' I mean "The Truck Dispatching Problem" by G.B.Dantzig and J.H.Ramser 1959 (https://www.jstor.org/stable/2627477?seq=4) //<>//
 
 import java.util.*; // Library I use for lists
 import java.lang.Math;
